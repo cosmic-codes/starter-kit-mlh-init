@@ -1,4 +1,6 @@
 # MLH INIT Bootstrap Starter Pack
+GO BLAHAJ CLUB!!!
+
 This is my starter pack that helps people get started using Bootstrap! You can clone it and it will give you a basic Bootstrap project that you can then use for a hackathon! Feel free to edit it as you need!
 
 
